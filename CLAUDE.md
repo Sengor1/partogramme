@@ -34,6 +34,6 @@ Données 100 % fictives (TP pédagogique). Maquette de référence : `maquette.p
 
 ## Mise en ligne
 
-- Dépôt GitHub public du même nom ; chaque `git push` publie via `.github/workflows/deploy.yml`
-  (ne pas le modifier).
+- Dépôt GitHub public du même nom : https://github.com/Sengor1/partogramme ;
+  chaque `git push` publie via `.github/workflows/deploy.yml` (ne pas le modifier).
 - Adresse du site : https://sps-g38-parto.professeurpetitchat.com/
